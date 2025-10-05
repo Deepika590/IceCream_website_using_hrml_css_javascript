@@ -1,4 +1,4 @@
-# Ice_World_15-02-25
+# Ice_Cream
 
 🍦 Create A Responsive Ice Cream Shop Website Using HTML, CSS & JavaScript 🍦
 
@@ -16,3 +16,4 @@ Want to build a stunning and fully responsive Ice Cream Shop website? In this st
 🔔 Don't forget to Like, Share & Subscribe for more amazing web development tutorials!
 
 ![121-1](https://github.com/user-attachments/assets/964a1f46-02f1-44ef-b9e4-8c187e82f695)
+
